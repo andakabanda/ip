@@ -1,78 +1,1566 @@
-#EXTINF:-1,DE: Sky_Select_HD_1
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/317.ts
-#EXTINF:-1,DE: Sky_Select_HD_2
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/318.ts
-#EXTINF:-1,DE: Sky_Select_HD_3
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/319.ts
-#EXTINF:-1,DE: Sky_Select_HD_4
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/320.ts
-#EXTINF:-1,DE: Sky_Select_HD_5
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/321.ts
-#EXTINF:-1,DE: Sky Select HD 6
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/706.ts
-#EXTINF:-1,DE: Sky Select HD 7
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/707.ts
-#EXTINF:-1,DE: Sky Select HD 9
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/709.ts
-#EXTINF:-1,DE: Sky Select HD 8
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/708.ts
-#EXTINF:-1,DE: Sky Select HD 10
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/710.ts
-#EXTINF:-1,DE:ZDF
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/426.ts
-#EXTINF:-1,DE:NATGEODE
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/437.ts
-#EXTINF:-1,DE: SKY TNT FILME
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/440.ts
-#EXTINF:-1,DE: KIKA
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/295.ts
-#EXTINF:-1,DE:SKY NATONAL WILD
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/86.ts
-#EXTINF:-1,DE:SKY WRD
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/92.ts
-#EXTINF:-1,DE:SKY CINEMA 24
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/93.ts
-#EXTINF:-1,DE:SYFY
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/288.ts
-#EXTINF:-1,DE:SKY DISCOVERY HD
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/296.ts
-#EXTINF:-1,DE:SKY ATLANTIC HD
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/101.ts
-#EXTINF:-1,DE:WDR HD
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/379.ts
-#EXTINF:-1,DE:TVA
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/381.ts
-#EXTINF:-1,DE:ORF 1
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/384.ts
-#EXTINF:-1,DE:ORF 2
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/375.ts
-#EXTINF:-1,DE:EURONEWS
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/352.ts
-#EXTINF:-1,DE: SKY SPORT 1
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/351.ts
-#EXTINF:-1,DE:N24
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/345.ts
-#EXTINF:-1,DE:BUNDESLIGA 1 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/446.ts
-#EXTINF:-1,DE:BUNDESLIGA 2 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/447.ts
-#EXTINF:-1,DE:BUNDESLIGA 3 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/448.ts
-#EXTINF:-1,DE:BUNDESLIGA 4 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/449.ts
-#EXTINF:-1,DE:BUNDESLIGA 5 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/450.ts
-#EXTINF:-1,DE:BUNDESLIGA 6 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/451.ts
-#EXTINF:-1,DE:BUNDESLIGA 7 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/452.ts
-#EXTINF:-1,DE:BUNDESLIGA 8 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/453.ts
-#EXTINF:-1,DE:BUNDESLIGA 9 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/454.ts
-#EXTINF:-1,DE:BUNDESLIGA 10 HD VIP
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/455.ts
-#EXTINF:-1,DE: Eurosport 2 HD Xtra
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/1298.ts
-#EXTINF:-1,DE: ORF Sport
-http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/410.ts
+#EXTM3U
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/144.ts
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/140.ts
+#EXTINF:-1,|DE| Sky Cinema 24  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/149.ts
+#EXTINF:-1,|DE| Fox Serie  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/131.ts
+#EXTINF:-1,|DE| Junior  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/134.ts
+#EXTINF:-1,|DE| National Geo  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/138.ts
+#EXTINF:-1,|DE| Disney Cinemagic  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/128.ts
+#EXTINF:-1,|DE| Goldstar TV  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/132.ts
+#EXTINF:-1,|DE| Sky Atlantic  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/146.ts
+#EXTINF:-1,|DE| Sky Cinema Family  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/150.ts
+#EXTINF:-1,|DE| Sky Krimi  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/155.ts
+#EXTINF:-1,|DE| Sky Cinema Nostalgie  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/152.ts
+#EXTINF:-1,|DE| Sky SPort 1  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/157.ts
+#EXTINF:-1,|DE| Sky Emotion  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/154.ts
+#EXTINF:-1,|DE| SUPER RTL  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/159.ts
+#EXTINF:-1,|DE| Sky Comedy  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/153.ts
+#EXTINF:-1,|DE| ZDF  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/164.ts
+#EXTINF:-1,|DE| SyFy  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/160.ts
+#EXTINF:-1,|DE| Sky Cinema Hits  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/151.ts
+#EXTINF:-1,|DE| Spiegel Geschichte  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/158.ts
+#EXTINF:-1,|DE| Sky Sport 2  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/156.ts
+#EXTINF:-1,|DE| TNT Serie  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/161.ts
+#EXTINF:-1,|DE| TOGGO plus  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/162.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/163.ts
+#EXTINF:-1,|DE| Discovery  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_8QzvNl/ENR2i9xA/127.ts
+#EXTINF:-1,DMC Sports  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1147.ts
+#EXTINF:-1,AD Sport 6  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1148.ts
+#EXTINF:-1,Al AHLY  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1143.ts
+#EXTINF:-1,|DE| Heimatkanal  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_8QzvNl/ENR2i9xA/133.ts
+#EXTINF:-1,|IR| Channel 4  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1135.ts
+#EXTINF:-1,|DE| 3 sat  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_8QzvNl/ENR2i9xA/125.ts
+#EXTINF:-1,|DE| NTV  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_8QzvNl/ENR2i9xA/136.ts
+#EXTINF:-1,|DE| ZDF Neo  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_8QzvNl/ENR2i9xA/166.ts
+#EXTINF:-1,|IR| GEM DRAMA  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1126.ts
+#EXTINF:-1,|IR| Ganje E Hozur  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1130.ts
+#EXTINF:-1,|IR| Beauty TV  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1137.ts
+#EXTINF:-1,|IR| GEM ARABIA  IPTVultra.com [1920x1080]
+http://192.99.148.117:2086/live/Etronics_55dyrY/1cwKTBNE/1129.ts
+#EXTINF:-1,[DE] RTL 2 HD  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6580.ts
+#EXTINF:-1,[DE] Kika  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9996.ts
+#EXTINF:-1,[DE] RTL HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6576.ts
+#EXTINF:-1,[DE] TNT Comedy HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9258.ts
+#EXTINF:-1,[DE] FOX HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6597.ts
+#EXTINF:-1,[DE] Sky Cinema 24 HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6544.ts
+#EXTINF:-1,[DE] Super RTL HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9256.ts
+#EXTINF:-1,[DE] Sky Select 5 HD  IPTVultra.com [1280x544]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9686.ts
+#EXTINF:-1,[DE] Sky Hits HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6543.ts
+#EXTINF:-1,[DE] RTL Crime  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6592.ts
+#EXTINF:-1,[DE] SIXX  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6600.ts
+#EXTINF:-1,[DE] RTL Passion  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6590.ts
+#EXTINF:-1,[DE] ZDF  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6595.ts
+#EXTINF:-1,[DE] Sky Comedy  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6547.ts
+#EXTINF:-1,[DE] DMAX HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6570.ts
+#EXTINF:-1,[DE] Sky Action HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6567.ts
+#EXTINF:-1,[DE] VOX HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6599.ts
+#EXTINF:-1,[DE] Sky Sport News HD  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/11787.ts
+#EXTINF:-1,[DE] Sky Cinema +1 HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/11784.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6563.ts
+#EXTINF:-1,[DE] ORF eins  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9633.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9735.ts
+#EXTINF:-1,[DE] Sky Cinema HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6542.ts
+#EXTINF:-1,[DE] National Geo HD  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6571.ts
+#EXTINF:-1,[DE] ORF 2 HD  IPTVultra.com [1280x720]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9634.ts
+#EXTINF:-1,DE Sky Select 9 HD  IPTVultra.com [1280x544]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9690.ts
+#EXTINF:-1,[DE] Sky Select 8 HD  IPTVultra.com [720x416]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9689.ts
+#EXTINF:-1,[DE] TNT Film HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6548.ts
+#EXTINF:-1,[DE] Sky Emotion  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6546.ts
+#EXTINF:-1,[DE] Sky Bundesliga 2 HD  IPTVultra.com [720x576]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/11788.ts
+#EXTINF:-1,[DE] Syfy HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9628.ts
+#EXTINF:-1,[DE] Sky Sport 2 HD  IPTVultra.com [1920x1088]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9739.ts
+#EXTINF:-1,[DE] Sky Select 2 HD  IPTVultra.com [640x272]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6585.ts
+#EXTINF:-1,[DE] Sky Select 6 HD  IPTVultra.com [720x416]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9687.ts
+#EXTINF:-1,[DE] Sky Select 4 HD  IPTVultra.com [720x304]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9685.ts
+#EXTINF:-1,[DE] Sky Select 7HD  IPTVultra.com [720x304]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/9688.ts
+#EXTINF:-1,[DE] Sky Select 1 HD  IPTVultra.com [640x272]
+http://smartlife.cechire.com:7846/live/salvatore4428scambio/fvZiAmVWfT/6584.ts
+#EXTINF:-1,SPORT KLUB 1 SD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/531.ts
+#EXTINF:-1, SKY SPORT 2 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/18.ts
+#EXTINF:-1, SkySport News  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/46.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/392.ts
+#EXTINF:-1, ZDF HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/391.ts
+#EXTINF:-1, Sat 1  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/453.ts
+#EXTINF:-1, Sky Discovery HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/397.ts
+#EXTINF:-1, N24 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/390.ts
+#EXTINF:-1, Sky Histori HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/396.ts
+#EXTINF:-1, Sky DMAX HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/395.ts
+#EXTINF:-1, Sky TNT Film HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/398.ts
+#EXTINF:-1,|DE| Sky Emotion  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/26.ts
+#EXTINF:-1, KIKA  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/454.ts
+#EXTINF:-1,[DE] Sky Hits HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/394.ts
+#EXTINF:-1, Kabel 1 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/389.ts
+#EXTINF:-1, Sky AXN ACTION HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/401.ts
+#EXTINF:-1,[DE] 13TH Street  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26724.ts
+#EXTINF:-1,[DE] Sky Select 1 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/521.ts
+#EXTINF:-1,[DE] 13TH Street HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26723.ts
+#EXTINF:-1,[DE] Action HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26722.ts
+#EXTINF:-1,TV TK Tuzlanski Kanton  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/625.ts
+#EXTINF:-1,[DE] Ae  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26721.ts
+#EXTINF:-1,[DE] Sky Select 2 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/522.ts
+#EXTINF:-1,[DE] Blue Movie  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26720.ts
+#EXTINF:-1,[DE] Sky Select 5 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/525.ts
+#EXTINF:-1,[DE] Boomerang  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26719.ts
+#EXTINF:-1,[DE] Sky Select 4 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/524.ts
+#EXTINF:-1,[DE] Cartoon Network  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26717.ts
+#EXTINF:-1,[DE] Discovery  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26715.ts
+#EXTINF:-1, Sky Select 3 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/523.ts
+#EXTINF:-1,[DE] Disney cinemagic  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26710.ts
+#EXTINF:-1, Pro7  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/33.ts
+#EXTINF:-1,[DE] Discovery HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26714.ts
+#EXTINF:-1,SPORT KLUB 3 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/532.ts
+#EXTINF:-1,[DE] Disney cinemagic HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26709.ts
+#EXTINF:-1,SPORT KLUB 2 SD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/530.ts
+#EXTINF:-1,[DE] Eurosport 1 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26707.ts
+#EXTINF:-1, Sky Nat Geo Wild  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/518.ts
+#EXTINF:-1,[DE] Disney Junior  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26713.ts
+#EXTINF:-1,[DE] E! Entertainm. HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26708.ts
+#EXTINF:-1,|DE| Sky Krimi  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/496.ts
+#EXTINF:-1,[DE] Disney Junior HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26712.ts
+#EXTINF:-1,[DE] Disney XD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26711.ts
+#EXTINF:-1, Sky Histori HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/515.ts
+#EXTINF:-1,[DE] Kinowelt  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26701.ts
+#EXTINF:-1,[DE] History HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26703.ts
+#EXTINF:-1,|DE| Sky Comedy  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/27.ts
+#EXTINF:-1,[DE] Motorvision  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26699.ts
+#EXTINF:-1,RTV VOJVODINA 1  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/628.ts
+#EXTINF:-1,[DE] Fox  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26706.ts
+#EXTINF:-1, Universal HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/514.ts
+#EXTINF:-1,[DE] Junior  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26702.ts
+#EXTINF:-1,[DE] Nat Geo Wild HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26694.ts
+#EXTINF:-1, National Geographic  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/517.ts
+#EXTINF:-1,[DE] Nat Geo Wild HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26697.ts
+#EXTINF:-1,[DE] Nat Geo Wild HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26695.ts
+#EXTINF:-1, ARD HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/572.ts
+#EXTINF:-1,[DE] Nat Geo HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26696.ts
+#EXTINF:-1, 3SAT  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/571.ts
+#EXTINF:-1,[DE] RTL Crime  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26688.ts
+#EXTINF:-1, Discovery Channel  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/516.ts
+#EXTINF:-1,[DE] RTL 2 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26690.ts
+#EXTINF:-1,[DE] RTL 2 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26689.ts
+#EXTINF:-1,[DE] ORF 2 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/587.ts
+#EXTINF:-1,[DE] RTL Living  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26687.ts
+#EXTINF:-1,CMC  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/540.ts
+#EXTINF:-1,[DE] RTL Passion  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26685.ts
+#EXTINF:-1,[DE] Sky Select 6 HD  IPTVultra.com [1920x1080]
+http://boosiptv.agresor.biz:8000/live/Semir/xgsSy8aL4p/526.ts
+#EXTINF:-1,[DE] Sky Action HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26681.ts
+#EXTINF:-1,[DE] Sky Atlantic HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26679.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26678.ts
+#EXTINF:-1,[DE] Sky Cinema 1 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26675.ts
+#EXTINF:-1,[DE] Sky Cinema 1 HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26676.ts
+#EXTINF:-1,[DE] Sky Cinema 24 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26674.ts
+#EXTINF:-1,[DE] Sky Cinema Action HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26672.ts
+#EXTINF:-1,[DE] Sky Cinema Comedy  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26671.ts
+#EXTINF:-1,[DE] Sky Cinema Emotion  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26670.ts
+#EXTINF:-1,[DE] Sky Cinema Family HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26668.ts
+#EXTINF:-1,[DE] Sky Cinema Hits  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26666.ts
+#EXTINF:-1,[DE] Sky Krimi  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26664.ts
+#EXTINF:-1,[DE] Sky Cinema Hits HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26665.ts
+#EXTINF:-1,[DE] Sky Nostalgie  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26663.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26662.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD 1  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26660.ts
+#EXTINF:-1,[DE] Sky Sport 2 HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26658.ts
+#EXTINF:-1,[DE] Sky Sport 2 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26657.ts
+#EXTINF:-1,[DE] Sky Sport Austria  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26653.ts
+#EXTINF:-1,[DE] Sky Sport Bundesliga 1 HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26652.ts
+#EXTINF:-1,[DE] Sky Sport News HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26647.ts
+#EXTINF:-1,[DE] Sky SyFy  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26646.ts
+#EXTINF:-1,[DE] Sky SyFy HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26645.ts
+#EXTINF:-1,[DE] Spiegel Geschichte HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26644.ts
+#EXTINF:-1,[DE] Super RTL HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26643.ts
+#EXTINF:-1,[DE] TNT Comedy HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26642.ts
+#EXTINF:-1,[DE] TNT Film HD  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26641.ts
+#EXTINF:-1,[DE] TNT Serie  IPTVultra.com [720x576]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26639.ts
+#EXTINF:-1,[DE] TNT serie HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/minie/KOD2TMWyuC/26638.ts
+#EXTINF:-1,[DE] Universal HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26637.ts
+#EXTINF:-1,[DE] Vox HD  IPTVultra.com [1280x720]
+http://lucky.lts1.net:23000/live/carminepepiciello@gmail.com/8X3rKcpo55/26636.ts
+#EXTINF:-1, DAS ERSTE  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/Gerry/Gerry/17111.ts
+#EXTINF:-1, 13TH STREET  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17115.ts
+#EXTINF:-1, BOOMERANG  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17113.ts
+#EXTINF:-1, SKY CINEMA HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17080.ts
+#EXTINF:-1, SAT1 HD  IPTVultra.com [704x480]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17090.ts
+#EXTINF:-1, SKY KRIMI  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17077.ts
+#EXTINF:-1, RTL PASSION  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17092.ts
+#EXTINF:-1, SKY CINEMA 24 HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17085.ts
+#EXTINF:-1,[DE] ORF 2 HD  IPTVultra.com [720x416]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17098.ts
+#EXTINF:-1, SKY CINEMA FAMILY HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17081.ts
+#EXTINF:-1, DISNEY CINEMAGIC  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17108.ts
+#EXTINF:-1, SKY CINEMA ACTION HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17084.ts
+#EXTINF:-1, ZDF HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17059.ts
+#EXTINF:-1,[DE] RTL 2 HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17095.ts
+#EXTINF:-1, DISNEY CHANNEL  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17109.ts
+#EXTINF:-1, TNT SERIE  IPTVultra.com [1920x1088]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17061.ts
+#EXTINF:-1, SYFY  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17064.ts
+#EXTINF:-1, SKY SELECT 4 HD  IPTVultra.com [1920x800]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17073.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [752x640]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17060.ts
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [1920x1088]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17096.ts
+#EXTINF:-1, DISNEY XD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17106.ts
+#EXTINF:-1, DISCOVERY CHANNEL  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17110.ts
+#EXTINF:-1, SKY SELECT 1 HD  IPTVultra.com [640x272]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17076.ts
+#EXTINF:-1, SKY SELECT 5 HD  IPTVultra.com [1920x816]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17072.ts
+#EXTINF:-1, PRO7 MAXX  IPTVultra.com [1920x1088]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17097.ts
+#EXTINF:-1, RTL CRIME  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17094.ts
+#EXTINF:-1, SKY CINEMA HITS HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17079.ts
+#EXTINF:-1, ORF 1 HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17099.ts
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [752x640]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17093.ts
+#EXTINF:-1, SKY CINEMA COMEDY HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17083.ts
+#EXTINF:-1, ZDF NEO HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17057.ts
+#EXTINF:-1, NICKELODEON  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17100.ts
+#EXTINF:-1, TLC  IPTVultra.com [752x640]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17063.ts
+#EXTINF:-1, SKY SELECT 2 HD  IPTVultra.com [640x272]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17075.ts
+#EXTINF:-1, SKY BUNDESLIGA 1 HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17087.ts
+#EXTINF:-1, SKY CINEMA EMOTION HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17082.ts
+#EXTINF:-1, SKY CINEMA 1 HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17086.ts
+#EXTINF:-1, SPIEGEL GESCHICHTE  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17068.ts
+#EXTINF:-1, SKY SELECT 3 HD  IPTVultra.com [1920x816]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17074.ts
+#EXTINF:-1,|DE| SUPER RTL  IPTVultra.com [752x640]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17065.ts
+#EXTINF:-1, SKY ATLANTIC 1 HD  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17088.ts
+#EXTINF:-1, SKY CINEMA NOSTALGIE  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17078.ts
+#EXTINF:-1, SKY 1 HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17089.ts
+#EXTINF:-1, TNT FILM  IPTVultra.com [720x576]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17062.ts
+#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17107.ts
+#EXTINF:-1, ZDF INFO HD  IPTVultra.com [752x640]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17058.ts
+#EXTINF:-1, AXN HD  IPTVultra.com [1280x720]
+http://global.ipsatpro.tv:8000/live/dalia1/dalia2/17114.ts
+#EXTINF:-1, DE3 ORF EINS  IPTVultra.com [704x480]
+http://s1.iptv-pla.net:7040/live/991300/141616/10137.ts
+#EXTINF:-1, DE3 SKY FOX  IPTVultra.com [1920x1088]
+http://s1.iptv-pla.net:7040/live/991300/141616/6803.ts
+#EXTINF:-1, SKY SPORT NEWS HD  IPTVultra.com [1280x720]
+http://s1.iptv-pla.net:7040/live/66/66/16058.ts
+#EXTINF:-1, DE3 sky crimi  IPTVultra.com [720x576]
+http://s1.iptv-pla.net:7040/live/991300/141616/6793.ts
+#EXTINF:-1,sly Sport 1 DE B  IPTVultra.com [720x576]
+http://smartworld.dyndns.tv:8000/live/stalkerpolakuhdgf76suyerghsdf/stalkerpolakunbvxhfg734geyt746gtr/1817.ts
+#EXTINF:-1, Sky BUNDESLIGA 7 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )  IPTVultra.com [1920x1080]
+http://s1.iptv-pla.net:7040/live/12345/12345/12789.ts
+#EXTINF:-1, Sky BUNDESLIGA 8 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )  IPTVultra.com [1920x1080]
+http://s1.iptv-pla.net:7040/live/12345/12345/12790.ts
+#EXTINF:-1, Sky SPORT2 HD  IPTVultra.com [1920x1080]
+http://s1.iptv-pla.net:7040/live/12345/12345/12792.ts
+#EXTINF:-1, Sky SPORT1 HD  IPTVultra.com [1920x1088]
+http://s1.iptv-pla.net:7040/live/991300/141616/12791.ts
+#EXTINF:-1, DE: SKY Bundesliga HD2  IPTVultra.com [1920x1088]
+http://s1.iptv-pla.net:7040/live/991300/141616/12784.ts
+#EXTINF:-1, SKY BUNDESLIGA 1 HD  IPTVultra.com [720x576]
+http://s1.iptv-pla.net:7040/live/991300/141616/12783.ts
+#EXTINF:-1, RTL Crime HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2451.ts
+#EXTINF:-1, Disney Cinemagic HD  IPTVultra.com [640x368]
+http://217.160.107.173:25461/live/appco/licoveO1/2448.ts
+#EXTINF:-1, Fox HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2450.ts
+#EXTINF:-1, RTL2  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2455.ts
+#EXTINF:-1, TNT Film TCM  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2464.ts
+#EXTINF:-1,[DE] TNT Comedy HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2463.ts
+#EXTINF:-1,|DE| Sky Krimi  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2458.ts
+#EXTINF:-1,[DE] RTL Passion  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2454.ts
+#EXTINF:-1, Sky atlantic  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2456.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 10 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2430.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 2 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2431.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2433.ts
+#EXTINF:-1, Sky BUNDESLIGA 4 HD ( OFFLINE WHEN NO PLAY BUNDESLIGA )  IPTVultra.com [1280x720]
+http://s1.iptv-pla.net:7040/live/66/66/12786.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 5 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2434.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2435.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2436.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 8 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2437.ts
+#EXTINF:-1,DE | Sky Germany Sport 4 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2441.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 9 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2438.ts
+#EXTINF:-1,DE | Sky Germany Sport 10 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2439.ts
+#EXTINF:-1,DE | Sky Germany Sport 11 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2440.ts
+#EXTINF:-1,DE | Sky Germany Sport 3 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2447.ts
+#EXTINF:-1,[DE] Syfy HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2462.ts
+#EXTINF:-1,DE | Sky Germany Sport 7 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2444.ts
+#EXTINF:-1,DE | Sky Germany Sport 8 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2445.ts
+#EXTINF:-1,[DE] RTL HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2452.ts
+#EXTINF:-1,[DE] RTL Living  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2453.ts
+#EXTINF:-1,[DE] Eurosport 1 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2449.ts
+#EXTINF:-1, ARD HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2538.ts
+#EXTINF:-1, Arte  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2534.ts
+#EXTINF:-1, 3SAT HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2535.ts
+#EXTINF:-1, 3sat  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2536.ts
+#EXTINF:-1, 13th Street  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2537.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2541.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [1088x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2461.ts
+#EXTINF:-1, Explorer Shkenc  IPTVultra.com [640x480]
+http://217.160.107.173:25461/live/appco/licoveO1/3521.ts
+#EXTINF:-1,[DE] Boomerang  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2540.ts
+#EXTINF:-1,[DE] Sky Atlantic HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2457.ts
+#EXTINF:-1, MBC MAX  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3393.ts
+#EXTINF:-1, 1 2 3.tv HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2497.ts
+#EXTINF:-1, Film Aksion HD  IPTVultra.com [704x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3522.ts
+#EXTINF:-1, ANIXE HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2496.ts
+#EXTINF:-1, Explorer Natyra  IPTVultra.com [704x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3520.ts
+#EXTINF:-1, Disney XD Deutschland  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2549.ts
+#EXTINF:-1, Cufo  IPTVultra.com [704x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3518.ts
+#EXTINF:-1, OSN OSN SPORT FIGHTNETWORK  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3394.ts
+#EXTINF:-1, DAS ERSTE HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2533.ts
+#EXTINF:-1, ALB UK HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3517.ts
+#EXTINF:-1, AXN HD Germany  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2539.ts
+#EXTINF:-1, Deluxe Music HD  IPTVultra.com [1280x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2544.ts
+#EXTINF:-1, Disney Channel HD Germany  IPTVultra.com [1088x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2546.ts
+#EXTINF:-1,[DE] Sky Nostalgie  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2459.ts
+#EXTINF:-1, ALB UK HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3516.ts
+#EXTINF:-1, ABC News  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3514.ts
+#EXTINF:-1, ALB ANIME  IPTVultra.com [768x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3515.ts
+#EXTINF:-1, A1 SHQIPTARE  IPTVultra.com [1024x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3513.ts
+#EXTINF:-1,|DE| Sky Cinema Hits  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2470.ts
+#EXTINF:-1, Top News  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3512.ts
+#EXTINF:-1, WesterN  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3511.ts
+#EXTINF:-1, Tring World  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3510.ts
+#EXTINF:-1,DE | Sky Germany Sport 6 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2443.ts
+#EXTINF:-1, TRING SUPER  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3508.ts
+#EXTINF:-1, TRING TRING  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3509.ts
+#EXTINF:-1, TRING SPORT 1 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3506.ts
+#EXTINF:-1, TRING SPORT 4 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3507.ts
+#EXTINF:-1, Channel21 HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2495.ts
+#EXTINF:-1, MDR Sachsen HD ( 1080P )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2491.ts
+#EXTINF:-1, Classica  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2543.ts
+#EXTINF:-1, Orf 1  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2557.ts
+#EXTINF:-1, E! Entertainm HD ( 1080P )  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2469.ts
+#EXTINF:-1, Sky Discovery HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2545.ts
+#EXTINF:-1, Pro7  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2559.ts
+#EXTINF:-1, Tring Max  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3503.ts
+#EXTINF:-1, Tring Shqip  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3505.ts
+#EXTINF:-1, TRING KOMEDI  IPTVultra.com [704x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3501.ts
+#EXTINF:-1, MGM HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2552.ts
+#EXTINF:-1, Tring Life  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3502.ts
+#EXTINF:-1, TRING HISTORI  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3500.ts
+#EXTINF:-1, TRING FANTASY  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3499.ts
+#EXTINF:-1, Tring Comedy  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3498.ts
+#EXTINF:-1, Top Channel HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3497.ts
+#EXTINF:-1, TNN Tunisia  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3194.ts
+#EXTINF:-1, Mediaspar  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2489.ts
+#EXTINF:-1, MTV HD ( 1080P )  IPTVultra.com [1440x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2488.ts
+#EXTINF:-1, MDR S Anhalt HD ( 1080P )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2492.ts
+#EXTINF:-1, Hr fernsehen HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2494.ts
+#EXTINF:-1, HSE24 EXTRA HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2493.ts
+#EXTINF:-1, Pro7 Maxx HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2498.ts
+#EXTINF:-1, KABEL 1 HD 1080  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/195.ts
+#EXTINF:-1, Pro7 Fun HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2499.ts
+#EXTINF:-1, Orf 2  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2558.ts
+#EXTINF:-1, Motorvision TV  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2468.ts
+#EXTINF:-1, National Geographic HD Germany  IPTVultra.com [864x480]
+http://217.160.107.173:25461/live/appco/licoveO1/2555.ts
+#EXTINF:-1, Rbb Berlin HD ( 1080P )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2482.ts
+#EXTINF:-1, Nickelodeon  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2556.ts
+#EXTINF:-1, Kabel Eins  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2532.ts
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2561.ts
+#EXTINF:-1, SERVUS TV HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2529.ts
+#EXTINF:-1, ProSieben Maxx HD ( 1080P )  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2486.ts
+#EXTINF:-1, PHOENIX  IPTVultra.com [864x480]
+http://217.160.107.173:25461/live/appco/licoveO1/2531.ts
+#EXTINF:-1, QVC BEAUTY & STYLE HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2485.ts
+#EXTINF:-1, QVC PLUS HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2483.ts
+#EXTINF:-1, rbb Brandenburg HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2481.ts
+#EXTINF:-1, ProSieben HD ( 1080P )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2487.ts
+#EXTINF:-1, NatGeo Wild HD Germany  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2554.ts
+#EXTINF:-1, Sky 3D ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2479.ts
+#EXTINF:-1, Sky Arts HD ( EN AUDIO )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2465.ts
+#EXTINF:-1, QVC HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2484.ts
+#EXTINF:-1, Kabel 1 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2550.ts
+#EXTINF:-1, SuperSport 6  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3495.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 7 HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2690.ts
+#EXTINF:-1, Sat 1 Gold  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2530.ts
+#EXTINF:-1, SuperSport 4  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3493.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 6 HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2691.ts
+#EXTINF:-1, SuperSport 5  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3494.ts
+#EXTINF:-1,DE | Sky Germany Sport 7 HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2681.ts
+#EXTINF:-1, SKY BUNDESLIGA 2 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2568.ts
+#EXTINF:-1, Sky BUNDESLIGA 3 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2569.ts
+#EXTINF:-1, Sky BUNDESLIGA 4 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2570.ts
+#EXTINF:-1,[DE] Eurosport 1 HD  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2713.ts
+#EXTINF:-1, sat 1 emotions  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2563.ts
+#EXTINF:-1,DE | Sky Germany BUNDESLIGA 4 HD  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2693.ts
+#EXTINF:-1, Thriller  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3496.ts
+#EXTINF:-1, SuperSport 3  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3492.ts
+#EXTINF:-1, Super Sport Kosovo 2 HD  IPTVultra.com [640x368]
+http://217.160.107.173:25461/live/appco/licoveO1/3491.ts
+#EXTINF:-1, Arte  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2595.ts
+#EXTINF:-1, SKY SELECT 2 HD  IPTVultra.com [1280x544]
+http://217.160.107.173:25461/live/appco/licoveO1/2585.ts
+#EXTINF:-1, SKY SELECT 1 HD  IPTVultra.com [1280x688]
+http://217.160.107.173:25461/live/appco/licoveO1/2584.ts
+#EXTINF:-1,DE | Sky Germany Sport 6 HD  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2682.ts
+#EXTINF:-1, Super Sport Kosovo 1 HD  IPTVultra.com [640x368]
+http://217.160.107.173:25461/live/appco/licoveO1/3490.ts
+#EXTINF:-1, Sky BUNDESLIGA 7 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2573.ts
+#EXTINF:-1,|DE| Sky Cinema Family  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2467.ts
+#EXTINF:-1, Super Sport 2  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3489.ts
+#EXTINF:-1,[DE] Boomerang  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2675.ts
+#EXTINF:-1, Sky BUNDESLIGA 8 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2574.ts
+#EXTINF:-1, Super Sport 1  IPTVultra.com [640x480]
+http://217.160.107.173:25461/live/appco/licoveO1/3488.ts
+#EXTINF:-1, AL JADEED  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3391.ts
+#EXTINF:-1, Disney XD Deutschland  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2666.ts
+#EXTINF:-1, SKY SELECT 4 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2587.ts
+#EXTINF:-1, Kabel 1 HD  IPTVultra.com [1920x1088]
+http://149.56.31.188:25461/live/bing27/bing27/2665.ts
+#EXTINF:-1, SKY ATLANTIC HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2565.ts
+#EXTINF:-1,[DE] Sky Action HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2564.ts
+#EXTINF:-1, Pro7  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2655.ts
+#EXTINF:-1, RTL II YOU HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/185.ts
+#EXTINF:-1, Nickelodeon  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2658.ts
+#EXTINF:-1,[DE] Sky Cinema 1 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2576.ts
+#EXTINF:-1, N24 HD  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2661.ts
+#EXTINF:-1, SKY SELECT 5 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2588.ts
+#EXTINF:-1,[DE] Sky Cinema HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2636.ts
+#EXTINF:-1, Sky Emotion HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2582.ts
+#EXTINF:-1,[DE] Kika  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2664.ts
+#EXTINF:-1, OSN Movies HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3392.ts
+#EXTINF:-1, Sky BUNDESLIGA 8 HD ( During Games only )  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2640.ts
+#EXTINF:-1,[DE] Sky Hits HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2583.ts
+#EXTINF:-1, MGM HD  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2663.ts
+#EXTINF:-1, Sky BUNDESLIGA 6 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2572.ts
+#EXTINF:-1, PHOENIX  IPTVultra.com [864x480]
+http://149.56.31.188:25461/live/bing27/bing27/2598.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2592.ts
+#EXTINF:-1, Orf 1  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2657.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2566.ts
+#EXTINF:-1, Sky BUNDESLIGA 9 HD ( During Games only )  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2639.ts
+#EXTINF:-1,[DE] Sky Cinema HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2578.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [1920x1088]
+http://149.56.31.188:25461/live/bing27/bing27/2648.ts
+#EXTINF:-1, Sky DMAX HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2581.ts
+#EXTINF:-1, National Geographic HD Germany  IPTVultra.com [864x480]
+http://149.56.31.188:25461/live/bing27/bing27/2659.ts
+#EXTINF:-1, SKY SELECT 6  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2589.ts
+#EXTINF:-1, NatGeo Wild HD Germany  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2660.ts
+#EXTINF:-1,AR VIP: Bein Sport 7 HD (Backup)  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3939.ts
+#EXTINF:-1, SUPER RTL HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2608.ts
+#EXTINF:-1, Sky BUNDESLIGA 9 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2575.ts
+#EXTINF:-1, Sky Universal HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2609.ts
+#EXTINF:-1,AR VIP: Bein Sport 8 HD (Backup)  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3938.ts
+#EXTINF:-1, Sky TNT Serie HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2610.ts
+#EXTINF:-1, Sky Sport 11 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2594.ts
+#EXTINF:-1,[DE] Sky Cinema 1 HD  IPTVultra.com [1920x1088]
+http://149.56.31.188:25461/live/bing27/bing27/2638.ts
+#EXTINF:-1, OSN ON DEMAND EXTRA 3 HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3390.ts
+#EXTINF:-1,[DE] Sky Sport News HD  IPTVultra.com [1920x1080]
+http://149.56.31.188:25461/live/bing27/bing27/2611.ts
+#EXTINF:-1,AR VIP: Bein Sport 9 HD (Backup)  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3937.ts
+#EXTINF:-1, SKY SELECT 1 HD  IPTVultra.com [1280x688]
+http://149.56.31.188:25461/live/bing27/bing27/2630.ts
+#EXTINF:-1, SKY SELECT 3 HD  IPTVultra.com [720x304]
+http://217.160.107.173:25461/live/appco/licoveO1/2586.ts
+#EXTINF:-1, Sky Sport 2 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/936.ts
+#EXTINF:-1, SKY SELECT 2 HD  IPTVultra.com [1280x544]
+http://149.56.31.188:25461/live/bing27/bing27/2629.ts
+#EXTINF:-1, Sky Sport 5 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2598.ts
+#EXTINF:-1,[DE] Sky Hits HD  IPTVultra.com [1920x1088]
+http://149.56.31.188:25461/live/bing27/bing27/2631.ts
+#EXTINF:-1, Sky Sport 3 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2596.ts
+#EXTINF:-1, Sat 1  IPTVultra.com [1920x1088]
+http://149.56.31.188:25461/live/bing27/bing27/2652.ts
+#EXTINF:-1, OSN ON DEMAND 2 HD  IPTVultra.com [768x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3387.ts
+#EXTINF:-1,|DE| ZDF  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2605.ts
+#EXTINF:-1, Sky Sport 3 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/935.ts
+#EXTINF:-1, ZEE ONE  IPTVultra.com [544x576]
+http://149.56.31.188:25461/live/bing27/bing27/2604.ts
+#EXTINF:-1, Sky Sport 4 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2597.ts
+#EXTINF:-1, OSN ON DEMAND 3 HD  IPTVultra.com [800x336]
+http://217.160.107.173:25461/live/appco/licoveO1/3388.ts
+#EXTINF:-1, ZDF NEO HD  IPTVultra.com [720x576]
+http://149.56.31.188:25461/live/bing27/bing27/2603.ts
+#EXTINF:-1, Sky Sport 4 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/934.ts
+#EXTINF:-1,[DE] Sky Select 8 HD  IPTVultra.com [720x416]
+http://217.160.107.173:25461/live/appco/licoveO1/2591.ts
+#EXTINF:-1, Sky Sport 5 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/933.ts
+#EXTINF:-1, WDR HD DE  IPTVultra.com [1280x720]
+http://149.56.31.188:25461/live/bing27/bing27/2602.ts
+#EXTINF:-1, SKY SPORT 5 HD [ON MATCHDAY]  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/383.ts
+#EXTINF:-1, OSN Nat Geo People HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3382.ts
+#EXTINF:-1, Sky Disney HD  IPTVultra.com [1088x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2580.ts
+#EXTINF:-1, Sky Sport 6 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/932.ts
+#EXTINF:-1,[DE] Sky Sport News HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2603.ts
+#EXTINF:-1, OSN Nat Geo HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3381.ts
+#EXTINF:-1, Sky Sport 7 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/931.ts
+#EXTINF:-1, Sky Sport 8 HD ( During Games only )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2601.ts
+#EXTINF:-1, OSN NEWS  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/3384.ts
+#EXTINF:-1, Sky Sport 8 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/930.ts
+#EXTINF:-1, OSN MTV LIVE HD  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/3380.ts
+#EXTINF:-1, OSN Movies Premiere 2HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/3379.ts
+#EXTINF:-1, Sky Sport Bundesliga 1 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2512.ts
+#EXTINF:-1, Sky Select 7  IPTVultra.com [720x416]
+http://217.160.107.173:25461/live/appco/licoveO1/2590.ts
+#EXTINF:-1, Sky Sport 7 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2600.ts
+#EXTINF:-1, Sky Sport Bundesliga 10 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2511.ts
+#EXTINF:-1, Sky Sport 9 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/929.ts
+#EXTINF:-1, Sky Sport Bundesliga 10 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/927.ts
+#EXTINF:-1, Sky Sport Bundesliga 2 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2510.ts
+#EXTINF:-1, Sky Sport Bundesliga 2 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/926.ts
+#EXTINF:-1, Sky Sport Bundesliga 3 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/925.ts
+#EXTINF:-1, Sky Sport Bundesliga 4 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2508.ts
+#EXTINF:-1, Sky Sport Bundesliga 4 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/924.ts
+#EXTINF:-1, Sky Sport Bundesliga 5 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2507.ts
+#EXTINF:-1, Sky Sport Bundesliga 6 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2506.ts
+#EXTINF:-1,DE| 13th Street  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37416.ts
+#EXTINF:-1, ROMANCE TV  IPTVultra.com [704x576]
+http://217.160.107.173:25461/live/appco/licoveO1/193.ts
+#EXTINF:-1, OSN On Demand Extra 1  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/3389.ts
+#EXTINF:-1,DE| Das Erste HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37462.ts
+#EXTINF:-1, Sport 1 US  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2502.ts
+#EXTINF:-1,DE| Disney Channel HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37376.ts
+#EXTINF:-1, Sky Sport 10 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2593.ts
+#EXTINF:-1, Sky TNT Serie HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2604.ts
+#EXTINF:-1,DE| 13th Street HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37417.ts
+#EXTINF:-1, TNT Comedy HD ( 1080P )  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2472.ts
+#EXTINF:-1, Sky Sport News HD 1080P  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/918.ts
+#EXTINF:-1,DE| A&E HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37345.ts
+#EXTINF:-1, Sky Sport 9 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2602.ts
+#EXTINF:-1,DE| Das Erste HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37461.ts
+#EXTINF:-1, SPORT1 HD ( 1080P )  IPTVultra.com [1280x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2476.ts
+#EXTINF:-1, Sky Sport Bundesliga 6 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/922.ts
+#EXTINF:-1, Sky BUNDESLIGA 10 HD ( During Games only )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2567.ts
+#EXTINF:-1,DE| Arte HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37456.ts
+#EXTINF:-1,DE| AXN  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37412.ts
+#EXTINF:-1, Sky Sport Bundesliga 7 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/921.ts
+#EXTINF:-1,DE| Animal Planet HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37329.ts
+#EXTINF:-1, Sky Sport Bundesliga 8 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2504.ts
+#EXTINF:-1,DE| Boomerang HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37370.ts
+#EXTINF:-1,[DE] VOX HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/191.ts
+#EXTINF:-1,DE| Discovery Channel HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37334.ts
+#EXTINF:-1, Sky Sport Bundesliga 7 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2505.ts
+#EXTINF:-1, Sky Sport Bundesliga 8 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/920.ts
+#EXTINF:-1,DE| 3Sat HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37457.ts
+#EXTINF:-1,DE| Anixe HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37324.ts
+#EXTINF:-1,DE| Deluxe Music HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37404.ts
+#EXTINF:-1, Sky Sport Bundesliga 9 HD (1080P)  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2503.ts
+#EXTINF:-1,DE| Discovery Channel HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37333.ts
+#EXTINF:-1, Sport Digital HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2500.ts
+#EXTINF:-1,DE| Disney Junior HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37374.ts
+#EXTINF:-1, Sky Sport Bundesliga 9 HD 1080P  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/919.ts
+#EXTINF:-1,DE| Film Club 6 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37359.ts
+#EXTINF:-1, Sky Sport Fanzone HD ( 1080P )  IPTVultra.com [960x540]
+http://217.160.107.173:25461/live/appco/licoveO1/2478.ts
+#EXTINF:-1,DE| Disney Cinemagic HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37375.ts
+#EXTINF:-1,DE| Anixe HD Series  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37325.ts
+#EXTINF:-1, tagesschau24 HD ( 1080P )  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2474.ts
+#EXTINF:-1, Sky Sport Bundesliga 1 HD 1080P  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/928.ts
+#EXTINF:-1,DE| E! HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37343.ts
+#EXTINF:-1,DE| Nat Geo Wild HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37336.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2608.ts
+#EXTINF:-1,DE| Kabel 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37434.ts
+#EXTINF:-1, SKY SPORT 4 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/385.ts
+#EXTINF:-1,DE| Dmax HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37323.ts
+#EXTINF:-1,[DE] Sky Sport 2 HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2595.ts
+#EXTINF:-1,DE| MTV Germany HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37405.ts
+#EXTINF:-1, WDR HD DE  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2527.ts
+#EXTINF:-1,DE| KinoFilme (Abgang mit Stil 2017)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37358.ts
+#EXTINF:-1, TV Paprika  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/4178.ts
+#EXTINF:-1,DE| Film Club 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37364.ts
+#EXTINF:-1, Zee One HD ( 1080P )  IPTVultra.com [1440x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2471.ts
+#EXTINF:-1,DE| Disney XD HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37373.ts
+#EXTINF:-1, TLC HD ( 1080P )  IPTVultra.com [1440x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2473.ts
+#EXTINF:-1,DE| Jukebox HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37406.ts
+#EXTINF:-1,DE| FOX  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37409.ts
+#EXTINF:-1, Sky Universal HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2605.ts
+#EXTINF:-1,DE| Heimat Kanal HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37378.ts
+#EXTINF:-1, SUPER RTL HD  IPTVultra.com [1920x1088]
+http://217.160.107.173:25461/live/appco/licoveO1/2606.ts
+#EXTINF:-1,DE| Nick HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37368.ts
+#EXTINF:-1, VIVA  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2528.ts
+#EXTINF:-1,DE| Film Club 2 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37363.ts
+#EXTINF:-1, ZEE ONE  IPTVultra.com [544x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2525.ts
+#EXTINF:-1,DE| ORF 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37422.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [1088x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2501.ts
+#EXTINF:-1,DE| FOX HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37410.ts
+#EXTINF:-1,|DE| ZDF  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2609.ts
+#EXTINF:-1,DE| Junior HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37372.ts
+#EXTINF:-1,DE| Pro 7 Maxx  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37437.ts
+#EXTINF:-1, SPIEGEL TV Wissen HD  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2477.ts
+#EXTINF:-1,|DE| RTL NITRO  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37451.ts
+#EXTINF:-1,|DE| TNT Serie  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2607.ts
+#EXTINF:-1,DE| RTL Crime  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37446.ts
+#EXTINF:-1,DE| RTL II HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37450.ts
+#EXTINF:-1,DE| RTL Passion  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37447.ts
+#EXTINF:-1,DE| Sat 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37431.ts
+#EXTINF:-1,DE| RTL II HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37449.ts
+#EXTINF:-1,DE| Sat 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37430.ts
+#EXTINF:-1,DE| Pro7 Fun HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37436.ts
+#EXTINF:-1,DE| Sky Cinema Hits HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37392.ts
+#EXTINF:-1,DE| Nickelodeon Schweiz HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37369.ts
+#EXTINF:-1,DE| History Channel  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37330.ts
+#EXTINF:-1,DE| Sky Cinema Nostalgie HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37385.ts
+#EXTINF:-1,DE| Pro 7 Maxx HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37438.ts
+#EXTINF:-1, Sky Sport Bundesliga 3 HD (1080P)  IPTVultra.com [1280x720]
+http://217.160.107.173:25461/live/appco/licoveO1/2509.ts
+#EXTINF:-1,|DE| Sky Cinema 24  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37398.ts
+#EXTINF:-1,DE| RTL HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37452.ts
+#EXTINF:-1,DE| Sky Cinema Comedy HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37386.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 6 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33735.ts
+#EXTINF:-1,DE| Sky Select Live 2 (Lommbock)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37356.ts
+#EXTINF:-1,DE| Sky Select Live 10 (Kong Skull Island)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37348.ts
+#EXTINF:-1,DE| Sony HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37407.ts
+#EXTINF:-1,DE| Sky Select Live 3 (Alien Covenant)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37355.ts
+#EXTINF:-1,DE| Spiegel Geschichte HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37341.ts
+#EXTINF:-1,DE| Super RTL HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37443.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 5 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33736.ts
+#EXTINF:-1, ZDF NEO HD  IPTVultra.com [720x576]
+http://217.160.107.173:25461/live/appco/licoveO1/2526.ts
+#EXTINF:-1,DE| Sky Select Live 8 (Die SchÃ¶ne und das Biest)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37350.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37441.ts
+#EXTINF:-1,DE| VOX HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37442.ts
+#EXTINF:-1,DE| WDR HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37458.ts
+#EXTINF:-1,DE| ZDF Info HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37459.ts
+#EXTINF:-1,DE| SKY SPORT 6 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33725.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 2 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33739.ts
+#EXTINF:-1,DE| SYFY  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37408.ts
+#EXTINF:-1,DE| Universal Channel HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37402.ts
+#EXTINF:-1,DE| Welt Der Wunder  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37337.ts
+#EXTINF:-1,DE| SKY SPORT 2 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33729.ts
+#EXTINF:-1,DE| ZDF HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37460.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 7 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33734.ts
+#EXTINF:-1,DE| SKY SPORT 4 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33727.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 3 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33738.ts
+#EXTINF:-1,DE| EUROSPORT 2 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33740.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 9 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33732.ts
+#EXTINF:-1,DE| EUROSPORT 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33741.ts
+#EXTINF:-1,DE| SKY SPORT 8 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33723.ts
+#EXTINF:-1,DE| SKY SPORT 5 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33726.ts
+#EXTINF:-1,DE| SKY SPORT AUSTRIA HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33720.ts
+#EXTINF:-1,DE| SKY SPORT 10 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33721.ts
+#EXTINF:-1,DE| SKY SPORT 1 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33730.ts
+#EXTINF:-1,DE| SKY SPORT NEWS HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33719.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 10 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33731.ts
+#EXTINF:-1,DE| SPORTDIGITAL  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33717.ts
+#EXTINF:-1,DE| Sky Cinema Action HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37389.ts
+#EXTINF:-1,DE| SPORT1  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33718.ts
+#EXTINF:-1,DE| sports 1 hd  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33715.ts
+#EXTINF:-1,DE| Sport 1 US HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33716.ts
+#EXTINF:-1,DE| SKY SPORT 9 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/33722.ts
+#EXTINF:-1,DE| SKY SPORT 3 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33728.ts
+#EXTINF:-1,DE| SKY SPORT 7 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33724.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 8 HD  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/baumann/baumann/33733.ts
+#EXTINF:-1,DE| Sky Select Live 9 (Ghost in the Shell)  IPTVultra.com [1920x1080]
+http://link.softclientarea.com:9100/live/pat/pat/37349.ts
+#EXTINF:-1, ZDF HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3514.ts
+#EXTINF:-1, WDR HD DE  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/4961.ts
+#EXTINF:-1, RTL NITRO HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3534.ts
+#EXTINF:-1, SAT 1 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3515.ts
+#EXTINF:-1, PRO 7 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3518.ts
+#EXTINF:-1, SRF 1  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3582.ts
+#EXTINF:-1, SKY KRIMI SD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/8073.ts
+#EXTINF:-1, SIXX HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/4955.ts
+#EXTINF:-1, CARTOON NETWORK  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/8538.ts
+#EXTINF:-1, PRO7 MAXX  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3568.ts
+#EXTINF:-1, PHOENIX HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3575.ts
+#EXTINF:-1, ORF 3  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/4717.ts
+#EXTINF:-1,[DE] ORF 2 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/4716.ts
+#EXTINF:-1, ORF 1 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3581.ts
+#EXTINF:-1, N TV HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3584.ts
+#EXTINF:-1, SPIEGEL GESCHICHTE HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3756.ts
+#EXTINF:-1,[DE] FOX HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3754.ts
+#EXTINF:-1, CLASSICA  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3755.ts
+#EXTINF:-1, DISNEY CINEMAGIC HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3539.ts
+#EXTINF:-1, ARTE HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3566.ts
+#EXTINF:-1,[DE] RTL HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3516.ts
+#EXTINF:-1,[DE] VOX HD  IPTVultra.com [704x480]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3753.ts
+#EXTINF:-1, SKY NAT GEO WILD HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/usiptv/Ilx1IxOJ36/3570.ts
+#EXTINF:-1,DE| SKY SPORT AUSTRIA HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3748.ts
+#EXTINF:-1, DISCOVERY SD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8087.ts
+#EXTINF:-1, COMEDY CENTRAL HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3744.ts
+#EXTINF:-1, KIKA HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3538.ts
+#EXTINF:-1, SILVERLINE TV HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3749.ts
+#EXTINF:-1, KABEL 1 HD 1080  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3532.ts
+#EXTINF:-1, DMAX SD  IPTVultra.com [720x416]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5151.ts
+#EXTINF:-1,DE| EUROSPORT 2 HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5033.ts
+#EXTINF:-1, TLC HD ( 1080P )  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5269.ts
+#EXTINF:-1, EURONEWS  IPTVultra.com [960x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3644.ts
+#EXTINF:-1,[DE] FOX HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3531.ts
+#EXTINF:-1, NAT GEO HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3585.ts
+#EXTINF:-1, DISNEY XD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4361.ts
+#EXTINF:-1, SKY SPORT NEWS HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3543.ts
+#EXTINF:-1, 3 SAT HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3576.ts
+#EXTINF:-1, HEIMATKANAL HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4718.ts
+#EXTINF:-1, DISNEY JUNIOR  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3577.ts
+#EXTINF:-1, NICKELODEON  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4359.ts
+#EXTINF:-1, SKY 13TH STREET HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4641.ts
+#EXTINF:-1, N24 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3540.ts
+#EXTINF:-1, SRF 2  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3583.ts
+#EXTINF:-1, DISCOVERY HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3542.ts
+#EXTINF:-1,DE| EUROSPORT 1 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3580.ts
+#EXTINF:-1, RTL CRIME HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3535.ts
+#EXTINF:-1, RTL2 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8355.ts
+#EXTINF:-1, ARD HD*  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8358.ts
+#EXTINF:-1,[DE] DMAX HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3541.ts
+#EXTINF:-1, TNT COMEDY HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4962.ts
+#EXTINF:-1, SKY CINEMA HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4963.ts
+#EXTINF:-1, PRO7 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8357.ts
+#EXTINF:-1, SKY EMOTION HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3523.ts
+#EXTINF:-1, SKY SPORT 1 FHD  IPTVultra.com [704x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6847.ts
+#EXTINF:-1,[DE] RTL 2 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3517.ts
+#EXTINF:-1, UNIVERSAL CHANNEL HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3645.ts
+#EXTINF:-1, SONY TV HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3745.ts
+#EXTINF:-1, RTL HD*  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8356.ts
+#EXTINF:-1, SKY SPORT 2 HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3545.ts
+#EXTINF:-1, WELT DER WUNDER  IPTVultra.com [864x480]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/4642.ts
+#EXTINF:-1, BOOMERANG  IPTVultra.com [960x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5102.ts
+#EXTINF:-1, SYFY HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3526.ts
+#EXTINF:-1, SKY ATLANTIC HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3521.ts
+#EXTINF:-1, TNT SERIE HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3529.ts
+#EXTINF:-1, SAT 1 HD*  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8354.ts
+#EXTINF:-1, SKY BUNDESLIGA 1 FHD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6843.ts
+#EXTINF:-1,DE| SKY SPORT 1 HD  IPTVultra.com [704x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3544.ts
+#EXTINF:-1, Sky Select HD 1  IPTVultra.com [720x400]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/317.ts
+#EXTINF:-1, TNT FILM HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3528.ts
+#EXTINF:-1, SUPER RTL HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3537.ts
+#EXTINF:-1, Sky Select HD 2  IPTVultra.com [1920x816]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/318.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 3 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3548.ts
+#EXTINF:-1, SKY TNT FILME  IPTVultra.com [720x576]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/440.ts
+#EXTINF:-1, KABEL EINS DOCU  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8363.ts
+#EXTINF:-1, Sky Select HD 3  IPTVultra.com [1280x544]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/319.ts
+#EXTINF:-1, SKY BUNDESLIGA 1 HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3546.ts
+#EXTINF:-1, Sky Select HD 7  IPTVultra.com [1920x816]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/707.ts
+#EXTINF:-1, Sky Select HD 6  IPTVultra.com [1280x720]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/706.ts
+#EXTINF:-1, NAT GEO SD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8086.ts
+#EXTINF:-1, Sky Select HD 4  IPTVultra.com [1280x704]
+http://163.172.222.45:8000/live/benimevde/benimevde/320.ts
+#EXTINF:-1, SKY 13TH STREET SD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8084.ts
+#EXTINF:-1, Sky Select HD 10  IPTVultra.com [640x272]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/710.ts
+#EXTINF:-1, SKY CINEMA 1 HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6840.ts
+#EXTINF:-1, SKY KINOWELT SD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8074.ts
+#EXTINF:-1, SKY SPORT AUSTRIA SD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8070.ts
+#EXTINF:-1, Sky Select HD 8  IPTVultra.com [1280x544]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/708.ts
+#EXTINF:-1, SKY EMOTION SD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8076.ts
+#EXTINF:-1, SKY SPORT 1 SD  IPTVultra.com [704x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8072.ts
+#EXTINF:-1,DE| SKY SPORT 1 HD  IPTVultra.com [1920x1088]
+http://163.172.222.45:8000/live/benimevde/benimevde/351.ts
+#EXTINF:-1, AXN HD  IPTVultra.com [704x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3527.ts
+#EXTINF:-1, SKY SPORT 4 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3647.ts
+#EXTINF:-1,DE| SKY SPORT 7 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3650.ts
+#EXTINF:-1, KIKA  IPTVultra.com [720x576]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/295.ts
+#EXTINF:-1, SKY SPORT 2 SD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8071.ts
+#EXTINF:-1, ORF Sport  IPTVultra.com [720x576]
+http://163.172.222.45:8000/live/nikoli/W9M9DxmRPM/410.ts
+#EXTINF:-1, SKY COMEDY SD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8077.ts
+#EXTINF:-1,DE| SKY SPORT 3 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3646.ts
+#EXTINF:-1, SPIEGEL TV WISSEN  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/7142.ts
+#EXTINF:-1, NAT GEO WILD SD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8085.ts
+#EXTINF:-1, SKY KINOWELT HD*  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6841.ts
+#EXTINF:-1, SRF 2 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6829.ts
+#EXTINF:-1, ZDF HD*  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8353.ts
+#EXTINF:-1, RTL PASSION HD  IPTVultra.com [720x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6835.ts
+#EXTINF:-1, TNT SERIE SD  IPTVultra.com [1088x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8068.ts
+#EXTINF:-1, ORF 1 HD  IPTVultra.com [1024x576]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6830.ts
+#EXTINF:-1, SKY BUNDESLIGA 2 HD ( During Games only )  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3547.ts
+#EXTINF:-1, SPORT1+ HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3743.ts
+#EXTINF:-1, SKY SELECT 8  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5192.ts
+#EXTINF:-1, SKY SELECT 5 HD  IPTVultra.com [720x304]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5195.ts
+#EXTINF:-1, SKY SELECT 3 HD  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5197.ts
+#EXTINF:-1, SKY SELECT 6  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5194.ts
+#EXTINF:-1, SKY SELECT 2 HD  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5198.ts
+#EXTINF:-1, SKY SELECT 4 HD  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5196.ts
+#EXTINF:-1, Sky Select HD 5  IPTVultra.com [1280x720]
+http://163.172.222.45:8000/live/full1hafta/kZ6EpoiLM6/321.ts
+#EXTINF:-1, SKY SELECT 7  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5193.ts
+#EXTINF:-1, Eurosport 2 HD Xtra  IPTVultra.com [1280x720]
+http://163.172.222.45:8000/live/full1hafta/kZ6EpoiLM6/1298.ts
+#EXTINF:-1, SKY CINEMA HITS SD  IPTVultra.com [688x480]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/8079.ts
+#EXTINF:-1, SKY SELECT 1 HD  IPTVultra.com [1280x544]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/5199.ts
+#EXTINF:-1, Sky Select HD 9  IPTVultra.com [0x16]
+http://163.172.222.45:8000/live/full1hafta/kZ6EpoiLM6/709.ts
+#EXTINF:-1, SRF 1 HD  IPTVultra.com [1920x1088]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/6828.ts
+#EXTINF:-1,DE| SKY BUNDESLIGA 5 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3550.ts
+#EXTINF:-1, SKY BUNDESLIGA 4 HD  IPTVultra.com [1280x720]
+http://193.70.108.66:8000/live/axn140/F9Cyan8HM2/3549.ts
+#EXTINF:-1,DE| Dmax HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/aminstars/skypeexch/567.ts
+#EXTINF:-1,[DE] Sky Action HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/551.ts
+#EXTINF:-1,[DE] Sky Action HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/544.ts
+#EXTINF:-1, PRO 7 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/559.ts
+#EXTINF:-1,[DE] Sky Cinema 24 HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/547.ts
+#EXTINF:-1, Sky Germany MGM  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/542.ts
+#EXTINF:-1,ALB: Nje HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/1564.ts
+#EXTINF:-1,|DE| Sky Emotion  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/exch/exch/545.ts
+#EXTINF:-1,PRO: ELBILAD TV  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6459.ts
+#EXTINF:-1,CANALDIGITAAL NL:SPORT 1 SELECT  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3554.ts
+#EXTINF:-1,ALB: TRING SUPER  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/aminstars/skypeexch/1573.ts
+#EXTINF:-1, Sky Sport Bundesliga 2 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/78369794833844/1593574628/9727.ts
+#EXTINF:-1,PRO: SUHAIL TV  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6550.ts
+#EXTINF:-1,Alsace 20  IPTVultra.com [640x368]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3543.ts
+#EXTINF:-1,ALB: JOLLY HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/1560.ts
+#EXTINF:-1,ALB: KTV HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/58965889362952/1593574628/1563.ts
+#EXTINF:-1, Sky Sport Bundesliga 9 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/78369794833844/1593574628/9720.ts
+#EXTINF:-1,ALB: FILM THRILLER  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/aminstars/skypeexch/1555.ts
+#EXTINF:-1,PRO: ROTANA CLASSIC  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6534.ts
+#EXTINF:-1, Sky Sport Bundesliga 10 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/78369794833844/1593574628/9719.ts
+#EXTINF:-1, Sky Sport Bundesliga 5 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/78369794833844/1593574628/9724.ts
+#EXTINF:-1,ALB: Top Channel HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/86333794968445/1593574628/1569.ts
+#EXTINF:-1,[DE] Disney XD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/5556.ts
+#EXTINF:-1,|DE| VOX  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/483.ts
+#EXTINF:-1,TÃ©bÃ©o TV Bretagne  IPTVultra.com [720x406]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3537.ts
+#EXTINF:-1, Disney channel HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/616529134468152/1593574628/5554.ts
+#EXTINF:-1, Sky Sport Bundesliga 6 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/78369794833844/1593574628/9723.ts
+#EXTINF:-1,PRO: FILM TUBE  IPTVultra.com [480x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6465.ts
+#EXTINF:-1, Fox HD  IPTVultra.com [736x416]
+http://173.212.194.126:8000/live/exch/exch/5558.ts
+#EXTINF:-1, Sky Sports 2 HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/86333794968445/1593574628/538.ts
+#EXTINF:-1, MTV germany  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/5559.ts
+#EXTINF:-1,[DE] Disney cinemagic HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/exch/exch/5555.ts
+#EXTINF:-1,DE| Boomerang HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/616529134468152/1593574628/5560.ts
+#EXTINF:-1, Cartoon Network HD  IPTVultra.com [1920x1088]
+http://173.212.194.126:8000/live/616529134468152/1593574628/5561.ts
+#EXTINF:-1,[DE] Sky Hits HD  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/468.ts
+#EXTINF:-1, Nickelodeon  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/5557.ts
+#EXTINF:-1, SKY SELECT 1 HD  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/088250763714488/1593574628/2825.ts
+#EXTINF:-1, SKY SELECT 2 HD  IPTVultra.com [1088x720]
+http://173.212.194.126:8000/live/exch/exch/2826.ts
+#EXTINF:-1, SKY SELECT 4 HD  IPTVultra.com [1280x704]
+http://173.212.194.126:8000/live/86333794968445/1593574628/2828.ts
+#EXTINF:-1, SKY SELECT 5 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/2829.ts
+#EXTINF:-1, SKY SELECT 3 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/exch/exch/2827.ts
+#EXTINF:-1, SKY SELECT 6  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/58965889362952/1593574628/2830.ts
+#EXTINF:-1,[DE] Sky Select 1 HD  IPTVultra.com [1920x800]
+http://173.212.194.126:8000/live/616529134468152/1593574628/2831.ts
+#EXTINF:-1,[DE] Sky Select 2 HD  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/088250763714488/1593574628/2832.ts
+#EXTINF:-1, Sky Select 3 HD  IPTVultra.com [1920x800]
+http://173.212.194.126:8000/live/616529134468152/1593574628/2833.ts
+#EXTINF:-1,[DE] Sky Select 4 HD  IPTVultra.com [1088x720]
+http://173.212.194.126:8000/live/exch/exch/2834.ts
+#EXTINF:-1,[DE] Sky Select 5 HD  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/088250763714488/1593574628/2835.ts
+#EXTINF:-1,ALB: FILM GOLD 1  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/1556.ts
+#EXTINF:-1, Sky Select 7 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/616529134468152/1593574628/2837.ts
+#EXTINF:-1,[DE] Sky Select 8 HD  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/088250763714488/1593574628/2838.ts
+#EXTINF:-1, Sky Sport Bundesliga 4 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/85778755884328/1593574628/9725.ts
+#EXTINF:-1, Sky Select 10 HD  IPTVultra.com [1280x544]
+http://173.212.194.126:8000/live/exch/exch/2840.ts
+#EXTINF:-1,DE Sky Select 9 HD  IPTVultra.com [1280x688]
+http://173.212.194.126:8000/live/58965889362952/1593574628/2839.ts
+#EXTINF:-1,[DE] Sky Select 6 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/616529134468152/1593574628/2836.ts
+#EXTINF:-1, Sky Sport Bundesliga 7 HD 1080P  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/85778755884328/1593574628/9722.ts
+#EXTINF:-1, Sky Sport Bundesliga 8 HD (1080P)  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/85778755884328/1593574628/9721.ts
+#EXTINF:-1, Sky Sport Bundesliga 3 HD 1080P  IPTVultra.com [1920x1080]
+http://173.212.194.126:8000/live/85778755884328/1593574628/9726.ts
+#EXTINF:-1,Grand Lille  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3535.ts
+#EXTINF:-1,ALB: kino Premier 3  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/58965889362952/1593574628/1536.ts
+#EXTINF:-1,TV7 Bordeaux  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3546.ts
+#EXTINF:-1, SKY Sport HD 2  IPTVultra.com [1920x1088]
+http://s1.iptv-pla.net:7040/live/66/66/16057.ts
+#EXTINF:-1,OSN: ARABIC: MBC DRAMA  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/2477.ts
+#EXTINF:-1,ALBANIA|ALSAT M HD  IPTVultra.com [880x480]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3452.ts
+#EXTINF:-1,ALBANIA|BANG BANG  IPTVultra.com [704x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/3448.ts
+#EXTINF:-1, N24 HD  IPTVultra.com [544x320]
+http://173.212.194.126:8000/live/86333794968445/1593574628/450.ts
+#EXTINF:-1,PRO: DZAIR TV  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6455.ts
+#EXTINF:-1,ALBANIA|ANTENA NORD HD  IPTVultra.com [320x240]
+http://173.212.194.126:8000/live/exch/exch/3451.ts
+#EXTINF:-1, ORF 1 HD  IPTVultra.com [1280x720]
+http://173.212.194.126:8000/live/86333794968445/1593574628/454.ts
+#EXTINF:-1,PRO: IQRAA  IPTVultra.com [768x576]
+http://173.212.194.126:8000/live/exch/exch/6479.ts
+#EXTINF:-1,PRO: DZAIR24  IPTVultra.com [720x576]
+http://173.212.194.126:8000/live/86333794968445/1593574628/6456.ts
+#EXTINF:-1,[DE] Sky Bundesliga 1 HD  IPTVultra.com [1920x1088]
+http://163.172.36.103:8000/live/ZwgTYeWUEC/www.iptvgold.com/1521.ts
+#EXTINF:-1,[DE] Sky Sport 1 HD  IPTVultra.com [720x576]
+http://163.172.36.103:8000/live/ZwgTYeWUEC/www.iptvgold.com/1522.ts
+
