@@ -1,263 +1,78 @@
-#EXTM3U
-#EXTINF:-1,===PAKISTAN===
-http://130.185.144.63:8000/live/pakistan/pakistan/1108.ts
-#EXTINF:-1,PK - 92 NEWS HD
-http://130.185.144.63:8000/live/pakistan/pakistan/1077.ts
-#EXTINF:-1,PK - 9X JALWA
-http://130.185.144.63:8000/live/pakistan/pakistan/44.ts
-#EXTINF:-1,PK - AAJ NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1.ts
-#EXTINF:-1,PK - ABB TAK
-http://130.185.144.63:8000/live/pakistan/pakistan/2.ts
-#EXTINF:-1,PK - AJJ ENTERTAINMENT
-http://130.185.144.63:8000/live/pakistan/pakistan/1002.ts
-#EXTINF:-1,PK - APNA
-http://130.185.144.63:8000/live/pakistan/pakistan/4.ts
-#EXTINF:-1,PK - ATV
-http://130.185.144.63:8000/live/pakistan/pakistan/11.ts
-#EXTINF:-1,PK - ARY ZINDAGI
-http://130.185.144.63:8000/live/pakistan/pakistan/8.ts
-#EXTINF:-1,PK - ARY MUSIK
-http://130.185.144.63:8000/live/pakistan/pakistan/9.ts
-#EXTINF:-1,PK - ARY DIGITAL
-http://130.185.144.63:8000/live/pakistan/pakistan/6.ts
-#EXTINF:-1,PK - APLUS ENTERTAINMENT
-http://130.185.144.63:8000/live/pakistan/pakistan/3.ts
-#EXTINF:-1,PK - ARY ZAIQA
-http://130.185.144.63:8000/live/pakistan/pakistan/511.ts
-#EXTINF:-1,PK - AVT KHYBER
-http://130.185.144.63:8000/live/pakistan/pakistan/12.ts
-#EXTINF:-1,PB - AONE PUNJABI
-http://130.185.144.63:8000/live/pakistan/pakistan/176.ts
-#EXTINF:-1,PK - MADNI
-http://130.185.144.63:8000/live/pakistan/pakistan/28.ts
-#EXTINF:-1,PK - HEALTH TV
-http://130.185.144.63:8000/live/pakistan/pakistan/23.ts
-#EXTINF:-1,PK - GEO KAHANI
-http://130.185.144.63:8000/live/pakistan/pakistan/21.ts
-#EXTINF:-1,PK - GEO NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/19.ts
-#EXTINF:-1,PK - GEO ENTERTAINMENT
-http://130.185.144.63:8000/live/pakistan/pakistan/20.ts
-#EXTINF:-1,PK - EXPRESS NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/17.ts
-#EXTINF:-1,PK - DUNYA NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/16.ts
-#EXTINF:-1,PK - DAWN NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/15.ts
-#EXTINF:-1,PK - CITY 42
-http://130.185.144.63:8000/live/pakistan/pakistan/13.ts
-#EXTINF:-1,PK - MADINA
-http://130.185.144.63:8000/live/pakistan/pakistan/46.ts
-#EXTINF:-1,PK - PAK NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1098.ts
-#EXTINF:-1,PK - VSH NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1109.ts
-#EXTINF:-1,PK - METRO ONE
-http://130.185.144.63:8000/live/pakistan/pakistan/29.ts
-#EXTINF:-1,PK - LAHORE NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1240.ts
-#EXTINF:-1,PK - STAR LITE
-http://130.185.144.63:8000/live/pakistan/pakistan/504.ts
-#EXTINF:-1,PK - BUSINESS PLUS
-http://130.185.144.63:8000/live/pakistan/pakistan/1080.ts
-#EXTINF:-1,PK - MINHAJ TV
-http://130.185.144.63:8000/live/pakistan/pakistan/2242.ts
-#EXTINF:-1,PK - MECCA
-http://130.185.144.63:8000/live/pakistan/pakistan/45.ts
-#EXTINF:-1,PK - PASHTO 1
-http://130.185.144.63:8000/live/pakistan/pakistan/34.ts
-#EXTINF:-1,PK - PTV HOME
-http://130.185.144.63:8000/live/pakistan/pakistan/32.ts
-#EXTINF:-1,PK - PTV WORLD
-http://130.185.144.63:8000/live/pakistan/pakistan/33.ts
-#EXTINF:-1,PK - SAMA NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/35.ts
-#EXTINF:-1,PK - BOL NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1013.ts
-#EXTINF:-1,PK - QTV
-http://130.185.144.63:8000/live/pakistan/pakistan/10.ts
-#EXTINF:-1,PK - TIME
-http://130.185.144.63:8000/live/pakistan/pakistan/36.ts
-#EXTINF:-1,PK - WAQT NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/39.ts
-#EXTINF:-1,PK - PAIGHAM
-http://130.185.144.63:8000/live/pakistan/pakistan/31.ts
-#EXTINF:-1,PK - NEWS 92
-http://130.185.144.63:8000/live/pakistan/pakistan/40.ts
-#EXTINF:-1,PK - CAPITAL TV
-http://130.185.144.63:8000/live/pakistan/pakistan/14.ts
-#EXTINF:-1,PK - NEW SONE
-http://130.185.144.63:8000/live/pakistan/pakistan/30.ts
-#EXTINF:-1,PK - KHYBER NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/27.ts
-#EXTINF:-1,PK - SUCH TV
-http://130.185.144.63:8000/live/pakistan/pakistan/42.ts
-#EXTINF:-1,PK - EXPRESS ENTERTAINMENT
-http://130.185.144.63:8000/live/pakistan/pakistan/18.ts
-#EXTINF:-1,PK - HUM TV
-http://130.185.144.63:8000/live/pakistan/pakistan/24.ts
-#EXTINF:-1,PK - HUM STAR
-http://130.185.144.63:8000/live/pakistan/pakistan/25.ts
-#EXTINF:-1,PK - HUM MASALA
-http://130.185.144.63:8000/live/pakistan/pakistan/26.ts
-#EXTINF:-1,PK - GEO TEZZ
-http://130.185.144.63:8000/live/pakistan/pakistan/22.ts
-#EXTINF:-1,PK - WASEEB
-http://130.185.144.63:8000/live/pakistan/pakistan/1110.ts
-#EXTINF:-1,PK - JAAG TV
-http://130.185.144.63:8000/live/pakistan/pakistan/1086.ts
-#EXTINF:-1,PK - NEWS ONE
-http://130.185.144.63:8000/live/pakistan/pakistan/1096.ts
-#EXTINF:-1,PK - PLAY ENTERTAINMENT
-http://130.185.144.63:8000/live/pakistan/pakistan/1099.ts
-#EXTINF:-1,PK - PTV GLOBAL
-http://130.185.144.63:8000/live/pakistan/pakistan/507.ts
-#EXTINF:-1,PK - PTV NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1101.ts
-#EXTINF:-1,PK - SINDH TV
-http://130.185.144.63:8000/live/pakistan/pakistan/1105.ts
-#EXTINF:-1,PK - ROZE TV
-http://130.185.144.63:8000/live/pakistan/pakistan/41.ts
-#EXTINF:-1,PK - SILVER SCREEN
-http://130.185.144.63:8000/live/pakistan/pakistan/505.ts
-#EXTINF:-1,PK - QURAN TV
-http://130.185.144.63:8000/live/pakistan/pakistan/1016.ts
-#EXTINF:-1,PK - SINDH NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1106.ts
-#EXTINF:-1,PK - STAR MAX
-http://130.185.144.63:8000/live/pakistan/pakistan/1107.ts
-#EXTINF:-1,PK - MEHRAN TV
-http://130.185.144.63:8000/live/pakistan/pakistan/1095.ts
-#EXTINF:-1,PK - TV ONE GLOBAL
-http://130.185.144.63:8000/live/pakistan/pakistan/37.ts
-#EXTINF:-1,PK - KAY 2
-http://130.185.144.63:8000/live/pakistan/pakistan/1090.ts
-#EXTINF:-1,PK - CHANNEL 5
-http://130.185.144.63:8000/live/pakistan/pakistan/1081.ts
-#EXTINF:-1,PK - FILMIZIA
-http://130.185.144.63:8000/live/pakistan/pakistan/701.ts
-#EXTINF:-1,PK - HADI
-http://130.185.144.63:8000/live/pakistan/pakistan/544.ts
-#EXTINF:-1,PK - DIN NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/1083.ts
-#EXTINF:-1,PK - CHANNEL 24
-http://130.185.144.63:8000/live/pakistan/pakistan/43.ts
-#EXTINF:-1,PK - HUM TV WORLD
-http://130.185.144.63:8000/live/pakistan/pakistan/1084.ts
-#EXTINF:-1,PK - KOHENOOR
-http://130.185.144.63:8000/live/pakistan/pakistan/1092.ts
-#EXTINF:-1,PK - AWAZ TV
-http://130.185.144.63:8000/live/pakistan/pakistan/1079.ts
-#EXTINF:-1,PK - ARY NEWS
-http://130.185.144.63:8000/live/pakistan/pakistan/5.ts
-#EXTINF:-1,SEE TV HD
-http://130.185.144.63:8000/live/pakistan/pakistan/513.ts
-#EXTINF:-1,PK - ZINDAGI TV
-http://130.185.144.63:8000/live/pakistan/pakistan/47.ts
-#EXTINF:-1,PK - ZAUQ
-http://130.185.144.63:8000/live/pakistan/pakistan/48.ts
-#EXTINF:-1,PK - ZAIQA
-http://130.185.144.63:8000/live/pakistan/pakistan/7.ts
-#EXTINF:-1,PK - URDU 1
-http://130.185.144.63:8000/live/pakistan/pakistan/38.ts
-#EXTINF:-1,IND: ASIANET
-http://swar.fannan.se:8000/live/shako/shako/7835.ts
-#EXTINF:-1,IND: ASIANET MOVIES
-http://swar.fannan.se:8000/live/shako/shako/7841.ts
-#EXTINF:-1,IND: ASIANET NEWS
-http://swar.fannan.se:8000/live/shako/shako/7843.ts
-#EXTINF:-1,IND: ASIANET PLUS
-http://swar.fannan.se:8000/live/shako/shako/7850.ts
-#EXTINF:-1,IND: ChekDE
-http://swar.fannan.se:8000/live/shako/shako/7853.ts
-#EXTINF:-1,IND: B4U MUSIC
-http://swar.fannan.se:8000/live/shako/shako/7854.ts
-#EXTINF:-1,IND: CHANNEL UFX
-http://swar.fannan.se:8000/live/shako/shako/7828.ts
-#EXTINF:-1,IND: Colors HD
-http://swar.fannan.se:8000/live/shako/shako/7861.ts
-#EXTINF:-1,IND: GEMINI
-http://swar.fannan.se:8000/live/shako/shako/7845.ts
-#EXTINF:-1,IND: GEMINI MOVIES
-http://swar.fannan.se:8000/live/shako/shako/7855.ts
-#EXTINF:-1,IND: JAYA MOVIE US
-http://swar.fannan.se:8000/live/shako/shako/7831.ts
-#EXTINF:-1,IND: Jaya Movies Tamil
-http://swar.fannan.se:8000/live/shako/shako/7834.ts
-#EXTINF:-1,IND: 9X Jhakaas IN
-http://swar.fannan.se:8000/live/shako/shako/7869.ts
-#EXTINF:-1,IND: KIRAN TV
-http://swar.fannan.se:8000/live/shako/shako/7827.ts
-#EXTINF:-1,IND: maa movies
-http://swar.fannan.se:8000/live/shako/shako/7846.ts
-#EXTINF:-1,IND: MTV
-http://swar.fannan.se:8000/live/shako/shako/7847.ts
-#EXTINF:-1,IND: nana TV
-http://swar.fannan.se:8000/live/shako/shako/7837.ts
-#EXTINF:-1,IND: PUTHUYUGAM TV
-http://swar.fannan.se:8000/live/shako/shako/7836.ts
-#EXTINF:-1,IND: RAJ TV
-http://swar.fannan.se:8000/live/shako/shako/7830.ts
-#EXTINF:-1,IND: RAJ VISSA
-http://swar.fannan.se:8000/live/shako/shako/7829.ts
-#EXTINF:-1,IND: SONY SAB
-http://swar.fannan.se:8000/live/shako/shako/7848.ts
-#EXTINF:-1,IND: STAR GOLD HD
-http://swar.fannan.se:8000/live/shako/shako/7857.ts
-#EXTINF:-1,IND: STAR PLUS IND
-http://swar.fannan.se:8000/live/shako/shako/7858.ts
-#EXTINF:-1,IND: STAR SPORTS 1
-http://swar.fannan.se:8000/live/shako/shako/7875.ts
-#EXTINF:-1,IND: STAR SPORTS 2
-http://swar.fannan.se:8000/live/shako/shako/7874.ts
-#EXTINF:-1,IND: STAR SPORTS 3
-http://swar.fannan.se:8000/live/shako/shako/7873.ts
-#EXTINF:-1,IND: STAR SPORTS 4
-http://swar.fannan.se:8000/live/shako/shako/7872.ts
-#EXTINF:-1,IND: STAR Vijay
-http://swar.fannan.se:8000/live/shako/shako/7832.ts
-#EXTINF:-1,IND: STAR WORLD
-http://swar.fannan.se:8000/live/shako/shako/7833.ts
-#EXTINF:-1,IND: SUN MUSIC
-http://swar.fannan.se:8000/live/shako/shako/7863.ts
-#EXTINF:-1,IND: Zee TV HD
-http://swar.fannan.se:8000/live/shako/shako/7865.ts
-#EXTINF:-1,IND: TEN 2
-http://swar.fannan.se:8000/live/shako/shako/7867.ts
-#EXTINF:-1,IND: 9XM
-http://swar.fannan.se:8000/live/shako/shako/7868.ts
-#EXTINF:-1,IND: TEN SPORTS HD
-http://swar.fannan.se:8000/live/shako/shako/7870.ts
-#EXTINF:-1,IND: 9XM Jalwa
-http://swar.fannan.se:8000/live/shako/shako/7859.ts
-#EXTINF:-1,IND: UTV bindass
-http://swar.fannan.se:8000/live/shako/shako/7871.ts
-#EXTINF:-1,IND: WE TV
-http://swar.fannan.se:8000/live/shako/shako/7860.ts
-#EXTINF:-1,IND: ZEE ACTION
-http://swar.fannan.se:8000/live/shako/shako/7864.ts
-#EXTINF:-1,IND: Zee Bangla
-http://swar.fannan.se:8000/live/shako/shako/7849.ts
-#EXTINF:-1,IND: Zee Classic
-http://swar.fannan.se:8000/live/shako/shako/7856.ts
-#EXTINF:-1,IND: Zee ETC Bollywood
-http://swar.fannan.se:8000/live/shako/shako/7838.ts
-#EXTINF:-1,IND: Zee Business
-http://swar.fannan.se:8000/live/shako/shako/7852.ts
-#EXTINF:-1,IND: Zee Living Food
-http://swar.fannan.se:8000/live/shako/shako/7862.ts
-#EXTINF:-1,IND: Zee MARATHI
-http://swar.fannan.se:8000/live/shako/shako/7840.ts
-#EXTINF:-1,IND: ZEE News
-http://swar.fannan.se:8000/live/shako/shako/7844.ts
-#EXTINF:-1,IND: Zee Talkies
-http://swar.fannan.se:8000/live/shako/shako/7842.ts
-#EXTINF:-1,IND: ZEE Telugu
-http://swar.fannan.se:8000/live/shako/shako/7839.ts
-#EXTINF:-1,IND: ZeeTV HD india
-http://swar.fannan.se:8000/live/shako/shako/7866.ts
-#EXTINF:-1,IND: ZeeTV india
-http://swar.fannan.se:8000/live/shako/shako/7851.ts
-#EXTINF:-1,IND: Zindagi
-http://swar.fannan.se:8000/live/shako/shako/7826.ts
+#EXTINF:-1,DE: Sky_Select_HD_1
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/317.ts
+#EXTINF:-1,DE: Sky_Select_HD_2
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/318.ts
+#EXTINF:-1,DE: Sky_Select_HD_3
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/319.ts
+#EXTINF:-1,DE: Sky_Select_HD_4
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/320.ts
+#EXTINF:-1,DE: Sky_Select_HD_5
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/321.ts
+#EXTINF:-1,DE: Sky Select HD 6
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/706.ts
+#EXTINF:-1,DE: Sky Select HD 7
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/707.ts
+#EXTINF:-1,DE: Sky Select HD 9
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/709.ts
+#EXTINF:-1,DE: Sky Select HD 8
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/708.ts
+#EXTINF:-1,DE: Sky Select HD 10
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/710.ts
+#EXTINF:-1,DE:ZDF
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/426.ts
+#EXTINF:-1,DE:NATGEODE
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/437.ts
+#EXTINF:-1,DE: SKY TNT FILME
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/440.ts
+#EXTINF:-1,DE: KIKA
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/295.ts
+#EXTINF:-1,DE:SKY NATONAL WILD
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/86.ts
+#EXTINF:-1,DE:SKY WRD
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/92.ts
+#EXTINF:-1,DE:SKY CINEMA 24
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/93.ts
+#EXTINF:-1,DE:SYFY
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/288.ts
+#EXTINF:-1,DE:SKY DISCOVERY HD
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/296.ts
+#EXTINF:-1,DE:SKY ATLANTIC HD
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/101.ts
+#EXTINF:-1,DE:WDR HD
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/379.ts
+#EXTINF:-1,DE:TVA
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/381.ts
+#EXTINF:-1,DE:ORF 1
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/384.ts
+#EXTINF:-1,DE:ORF 2
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/375.ts
+#EXTINF:-1,DE:EURONEWS
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/352.ts
+#EXTINF:-1,DE: SKY SPORT 1
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/351.ts
+#EXTINF:-1,DE:N24
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/345.ts
+#EXTINF:-1,DE:BUNDESLIGA 1 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/446.ts
+#EXTINF:-1,DE:BUNDESLIGA 2 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/447.ts
+#EXTINF:-1,DE:BUNDESLIGA 3 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/448.ts
+#EXTINF:-1,DE:BUNDESLIGA 4 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/449.ts
+#EXTINF:-1,DE:BUNDESLIGA 5 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/450.ts
+#EXTINF:-1,DE:BUNDESLIGA 6 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/451.ts
+#EXTINF:-1,DE:BUNDESLIGA 7 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/452.ts
+#EXTINF:-1,DE:BUNDESLIGA 8 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/453.ts
+#EXTINF:-1,DE:BUNDESLIGA 9 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/454.ts
+#EXTINF:-1,DE:BUNDESLIGA 10 HD VIP
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/455.ts
+#EXTINF:-1,DE: Eurosport 2 HD Xtra
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/1298.ts
+#EXTINF:-1,DE: ORF Sport
+http://bizimip.com:8000/live/full1hafta/kZ6EpoiLM6/410.ts
